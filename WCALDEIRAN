@@ -1,13 +1,13 @@
-channels>
+<channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
-<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON WCALDEIRAN[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/34/items/icone_201909/icone.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801505.us.archive.org/34/items/icone_201909/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ESSE CANAL É EXCLUSIVO DE WANDERLI CALDEIRA NUNES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,29 +15,14 @@ channels>
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/SERIES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com</externallink>
-<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801505.us.archive.org/34/items/icone_201909/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801401.us.archive.org/25/items/kids_20190914/KIDS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com</externallink>
-<fanart>https://ia801404.us.archive.org/12/items/fanart_20190909/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ESSE É O PRIMERIO ESTUDO DE CRIAÇÃO PARA ADDONS  DE WANDERLI CALDEIRA NUNES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
